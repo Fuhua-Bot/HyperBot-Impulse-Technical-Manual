@@ -16,6 +16,6 @@
    :caption: 目录
 
    机器人与无人产品/index
-   机械零部件/index
    电子零部件/index
+   机械零部件/index
    开源软件包/index
