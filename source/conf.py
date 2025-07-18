@@ -6,7 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'hyperbot-impulse-technical-manual'
+# project = 'hyperbot-impulse-technical-manual'
+project = '海博柔科&因铂斯技术手册'
+
 copyright = '2025, fuhua'
 author = 'fuhua'
 release = '0.1'
@@ -19,10 +21,12 @@ extensions = []
 templates_path = ['_templates']
 exclude_patterns = []
 
-language = 'zh'
+language = 'zh_CN'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+# html_theme = 'alabaster'
+# html_theme = 'sphinx_rtd_theme'
+html_theme = 'press'
 html_static_path = ['_static']
